@@ -2,11 +2,11 @@
 
 module CNN_tb;
 
-	//ÊäÈë
+	//è¾“å…¥
 	reg clk;
 	reg rst;
 
-	// Êä³ö
+	//è¾“å‡ºï¼šç‰¹å¾å›¾åƒæ•°ç›®
 	wire [3:0] numberOfTimes_PatterDetected;
 
 	CNN uut (
